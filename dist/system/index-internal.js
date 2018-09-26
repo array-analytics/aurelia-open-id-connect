@@ -1,7 +1,7 @@
 System.register(["./open-id-connect-authorize-step", "./open-id-connect-configuration-manager", "./open-id-connect-factory", "./open-id-connect-logger", "./open-id-connect-navigation-filter", "./open-id-connect-navigation-strategies", "./open-id-connect-routing", "./open-id-connect-user-block", "./open-id-connect-user-debug"], function (exports_1, context_1) {
     "use strict";
-    var __moduleName = context_1 && context_1.id;
     var open_id_connect_authorize_step_1, open_id_connect_configuration_manager_1, open_id_connect_factory_1, open_id_connect_logger_1, open_id_connect_navigation_filter_1, open_id_connect_navigation_strategies_1, open_id_connect_routing_1, open_id_connect_user_block_1, open_id_connect_user_debug_1;
+    var __moduleName = context_1 && context_1.id;
     return {
         setters: [
             function (open_id_connect_authorize_step_1_1) {

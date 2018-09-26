@@ -1,7 +1,7 @@
 System.register(["./open-id-connect", "./open-id-connect-configuration", "./open-id-connect-roles", "./plugin"], function (exports_1, context_1) {
     "use strict";
-    var __moduleName = context_1 && context_1.id;
     var open_id_connect_1, open_id_connect_configuration_1, open_id_connect_roles_1, plugin_1;
+    var __moduleName = context_1 && context_1.id;
     return {
         setters: [
             function (open_id_connect_1_1) {

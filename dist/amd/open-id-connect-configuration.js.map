@@ -1,1 +1,1 @@
-{"version":3,"file":"open-id-connect-configuration.js","sourceRoot":"","sources":["../../src/open-id-connect-configuration.ts"],"names":[],"mappings":";;;IAEA;QAAA;QAOA,CAAC;QAAD,iCAAC;IAAD,CAAC,AAPD,IAOC"}
+{"version":3,"file":"open-id-connect-configuration.js","sourceRoot":"","sources":["../../src/open-id-connect-configuration.ts"],"names":[],"mappings":";;;IAEA;QAAA;YAES,uBAAkB,GAAW,EAAE,CAAC;YAChC,wBAAmB,GAAW,EAAE,CAAC;YACjC,8BAAyB,GAAW,EAAE,CAAC;YACvC,aAAQ,GAAW,CAAC,CAAC;YACrB,wBAAmB,GAAwB,EAAE,CAAC;QACvD,CAAC;QAAD,iCAAC;IAAD,CAAC,AAPD,IAOC"}
