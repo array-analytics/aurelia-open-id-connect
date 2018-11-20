@@ -74,7 +74,7 @@
   "dependencies": {
     "aurelia-fetch-client": "^1.0.0",
     "aurelia-framework": "^1.0.0",
-    "aurelia-router": "=1.6.2",
+    "aurelia-router": "^1.6.2",
     "aurelia-history": "^1.1.0",
     "babel-polyfill": "^6.26.0",
     "oidc-client": "^1.4.1"
