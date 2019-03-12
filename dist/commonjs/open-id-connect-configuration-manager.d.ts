@@ -1,6 +1,6 @@
 import { UserManagerSettings } from 'oidc-client';
 import { OpenIdConnectConfiguration } from './index';
-export default class {
+export default class  {
     [key: string]: any;
     private _loginRedirectRoute;
     private _logoutRedirectRoute;
@@ -15,5 +15,5 @@ export default class {
     readonly redirectUri: string;
     readonly postLogoutRedirectUri: string;
     constructor(dto?: OpenIdConnectConfiguration);
-    private ensureRouteValueBeginsWithSlash;
+    private ensureRouteValueBeginsWithSlash(key, val);
 }

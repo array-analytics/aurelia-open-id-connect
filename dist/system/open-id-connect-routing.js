@@ -9,8 +9,8 @@ System.register(["aurelia-framework", "./open-id-connect-authorize-step", "./ope
     var __metadata = (this && this.__metadata) || function (k, v) {
         if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
     };
-    var aurelia_framework_1, open_id_connect_authorize_step_1, open_id_connect_configuration_manager_1, open_id_connect_logger_1, open_id_connect_navigation_strategies_1, OpenIdConnectRouting;
     var __moduleName = context_1 && context_1.id;
+    var aurelia_framework_1, open_id_connect_authorize_step_1, open_id_connect_configuration_manager_1, open_id_connect_logger_1, open_id_connect_navigation_strategies_1, OpenIdConnectRouting;
     return {
         setters: [
             function (aurelia_framework_1_1) {

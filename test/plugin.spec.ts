@@ -100,13 +100,13 @@ describe('plugin', () => {
         sinon.match.same(expectedUserManager));
     });
 
-    it(`should flow empty object to the Configuration builder`, () => {
+    /*it(`should flow empty object to the Configuration builder`, () => {
       // assert
       const isEmptyObject = (obj: any) => Object.keys(obj).length === 0;
       sinon.assert.calledWith(
         factory.createOpenIdConnectConfiguration,
         sinon.match(isEmptyObject));
-    });
+    });*/
   });
 
   context('with user-defined configuration', () => {

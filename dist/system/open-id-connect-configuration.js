@@ -1,15 +1,15 @@
 System.register([], function (exports_1, context_1) {
     "use strict";
-    var OpenIdConnectConfiguration;
     var __moduleName = context_1 && context_1.id;
+    var OpenIdConnectConfiguration;
     return {
         setters: [],
         execute: function () {
             OpenIdConnectConfiguration = (function () {
                 function OpenIdConnectConfiguration() {
-                    this.loginRedirectRoute = "";
-                    this.logoutRedirectRoute = "";
-                    this.unauthorizedRedirectRoute = "";
+                    this.loginRedirectRoute = '';
+                    this.logoutRedirectRoute = '';
+                    this.unauthorizedRedirectRoute = '';
                     this.logLevel = 0;
                     this.userManagerSettings = {};
                 }

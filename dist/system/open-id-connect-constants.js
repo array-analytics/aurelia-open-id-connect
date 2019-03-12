@@ -1,7 +1,7 @@
 System.register([], function (exports_1, context_1) {
     "use strict";
-    var LoginRedirectKey;
     var __moduleName = context_1 && context_1.id;
+    var LoginRedirectKey;
     return {
         setters: [],
         execute: function () {

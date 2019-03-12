@@ -9,4 +9,4 @@ import OpenIdConnectRouting from './open-id-connect-routing';
 import OpenIdConnectUserBlock from './open-id-connect-user-block';
 import OpenIdConnectUserDebug from './open-id-connect-user-debug';
 export * from './internal-types';
-export { OpenIdConnectRedirectHandler, OpenIdConnectAuthorizeStep, OpenIdConnectConfigurationManager, OpenIdConnectFactory, OpenIdConnectLogger, OpenIdConnectNavigationStrategies, OpenIdConnectNavigationFilter, OpenIdConnectRouting, OpenIdConnectUserBlock, OpenIdConnectUserDebug, };
+export { OpenIdConnectRedirectHandler, OpenIdConnectAuthorizeStep, OpenIdConnectConfigurationManager, OpenIdConnectFactory, OpenIdConnectLogger, OpenIdConnectNavigationStrategies, OpenIdConnectNavigationFilter, OpenIdConnectRouting, OpenIdConnectUserBlock, OpenIdConnectUserDebug };

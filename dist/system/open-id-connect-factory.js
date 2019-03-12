@@ -1,7 +1,7 @@
 System.register(["oidc-client", "./open-id-connect-configuration-manager", "./open-id-connect-logger"], function (exports_1, context_1) {
     "use strict";
-    var oidc_client_1, open_id_connect_configuration_manager_1, open_id_connect_logger_1, default_1;
     var __moduleName = context_1 && context_1.id;
+    var oidc_client_1, open_id_connect_configuration_manager_1, open_id_connect_logger_1, default_1;
     return {
         setters: [
             function (oidc_client_1_1) {
