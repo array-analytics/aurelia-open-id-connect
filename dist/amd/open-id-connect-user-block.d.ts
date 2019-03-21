@@ -1,6 +1,6 @@
 import { User } from 'oidc-client';
 import OpenIdConnect from './open-id-connect';
-export default class  {
+export default class {
     protected openIdConnect: OpenIdConnect;
     user: User | null;
     readonly isLoggedIn: boolean;

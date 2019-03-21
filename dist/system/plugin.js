@@ -1,5 +1,6 @@
 System.register(["aurelia-framework", "oidc-client", "./open-id-connect-configuration", "./open-id-connect-configuration-manager", "./open-id-connect-factory", "./open-id-connect-logger"], function (exports_1, context_1) {
     "use strict";
+    var aurelia_framework_1, oidc_client_1, open_id_connect_configuration_1, open_id_connect_configuration_manager_1, open_id_connect_factory_1, open_id_connect_logger_1, retrieveUserlandConfig;
     var __moduleName = context_1 && context_1.id;
     function default_1(frameworkConfig, callback, factory) {
         if (!factory) {
@@ -23,7 +24,6 @@ System.register(["aurelia-framework", "oidc-client", "./open-id-connect-configur
         frameworkConfig.container.registerInstance(Window, window);
     }
     exports_1("default", default_1);
-    var aurelia_framework_1, oidc_client_1, open_id_connect_configuration_1, open_id_connect_configuration_manager_1, open_id_connect_factory_1, open_id_connect_logger_1, retrieveUserlandConfig;
     return {
         setters: [
             function (aurelia_framework_1_1) {

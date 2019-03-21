@@ -9,9 +9,9 @@ export default class OpenIdConnectRouting {
     private logger;
     constructor(openIdConnectConfiguration: OpenIdConnectConfigurationManager, openIdConnectNavigationStrategies: OpenIdConnectNavigationStrategies, $window: Window, logger: OpenIdConnectLogger);
     configureRouter(routerConfiguration: RouterConfiguration): void;
-    private addLoginRedirectRoute(routerConfiguration);
-    private addLogoutRedirectRoute(routerConfiguration);
-    private isSilentLogin();
-    private getPath(uri);
-    private convertUriToAnchor(uri);
+    private addLoginRedirectRoute;
+    private addLogoutRedirectRoute;
+    private isSilentLogin;
+    private getPath;
+    private convertUriToAnchor;
 }
